@@ -4,4 +4,4 @@
 
 Pyfiglet
 
-<img = src="figlet.png"/>
+<img src="Pyfiglet.png"/>
